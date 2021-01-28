@@ -12,6 +12,7 @@ Very Simple. You can insert this file anywhere(but after Dropzone.js).
 
 <script src="/path/to/dropzone.min.js"></script><!-- Dropzone.js -->
 
+
 <script src="/path/to/dropzone.dict-ko.js"></script>
 
 License
